@@ -8,6 +8,8 @@ authors = ["Chanwut (Mick) Kittivorawong <chanwutk@gmail.com>"]
 python = "^3.8"
 jupyterlab = "^3.4.2"
 pandas = "^1.4.2"
+matplotlib = "^3.5.2"
+nuscenes-devkit = "^1.1.9"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.19.0"
